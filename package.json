@@ -1,0 +1,14 @@
+{
+  "name": "Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rmakaev/testing-examples.git",
+  "author": "Ruslan",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
